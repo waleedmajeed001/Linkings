@@ -1,6 +1,13 @@
-function blogPage() {
-    return <div>Thsi is my blog page.</div>
+import Link from "next/link";
+
+function blog () {
+  return (
+    <>
+      <div>This is Blog page.</div>
+
+    </>
+  )
 }
 
-export default blogPage;
+export default blog;
 

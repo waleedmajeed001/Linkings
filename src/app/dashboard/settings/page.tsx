@@ -5,8 +5,8 @@ function setting () {
     <>
       <div>This is Settingpage </div>
 
-      <Link href = "/password">Password</Link>
-      <div><Link href = "/profile">Profile</Link></div>
+      <Link href = "/dashboard/settings/password">Password</Link>
+      <div><Link href = "/dashboard/settings/profile">Profile</Link></div>
     </>
   )
 }

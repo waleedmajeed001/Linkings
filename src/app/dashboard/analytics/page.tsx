@@ -5,7 +5,6 @@ function Analytics () {
     <>
       <div>This is Analyticspage </div>
 
-      <Link href = "/Analytics">anlytics</Link>
     </>
   )
 }
